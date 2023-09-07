@@ -1,8 +1,8 @@
 ---
 title: This is my first blog.
-description: This is a post on My Blog about touchpoints and circling wagons.
-date: 2018-09-30
-scheduled: 2018-09-30
+description: My first blog, talking about some basic ideas for my blog.
+date: 2023-04-15
+scheduled: 2023-04-15
 tags: second-tag
 layout: layouts/post.njk
 ---
