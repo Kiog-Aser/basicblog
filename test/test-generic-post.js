@@ -1,3 +1,6 @@
+Skip to content
+
+
 const assert = require("assert").strict;
 const expect = require("expect.js");
 const { JSDOM } = require("jsdom");
@@ -51,8 +54,7 @@ describe("check build output for a generic post", () => {
       assert.equal(select("link[rel='canonical']", "href"), POST_URL);
       assert.equal(
         select("meta[name='description']", "content"),
-        "My first blog, talking about some basic ideas for my blog.
-"
+        "This is a post on My Blog about agile frameworks."
       );
     });
 
@@ -123,8 +125,8 @@ describe("check build output for a generic post", () => {
     });
 
     it("should have a published date", () => {
-      expect(select("article time")).to.equal("15 Apr 2023");
-      expect(select("article time", "datetime")).to.equal("2023-04-15");
+      expect(select("article time")).to.equal("01 May 2018");
+      expect(select("article time", "datetime")).to.equal("2018-05-01");
     });
 
     it("should link to twitter with noopener", () => {
@@ -189,7 +191,7 @@ describe("check build output for a generic post", () => {
         const obj = JSON.parse(json);
         expect(obj.url).to.equal(POST_URL);
         expect(obj.description).to.equal(
-          "In this post, I'll talk about my blog, what I'll post, and some basic ideas."
+          "Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster..."
         );
         expect(obj.image.length).to.be.greaterThan(0);
         obj.image.forEach((url, index) => {
@@ -204,3 +206,20 @@ describe("check build output for a generic post", () => {
     });
   });
 });
+
+© 2023
+
+All systems normal.
+Command Menu
+⌘
+K
+Home
+Documentation
+Guides
+Help
+Contact Sales
+Blog
+Changelog
+Pricing
+Enterprise
+basicblog-q41q – Deployment Source
