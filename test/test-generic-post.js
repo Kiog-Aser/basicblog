@@ -1,6 +1,3 @@
-Skip to content
-
-
 const assert = require("assert").strict;
 const expect = require("expect.js");
 const { JSDOM } = require("jsdom");
@@ -206,20 +203,3 @@ describe("check build output for a generic post", () => {
     });
   });
 });
-
-© 2023
-
-All systems normal.
-Command Menu
-⌘
-K
-Home
-Documentation
-Guides
-Help
-Contact Sales
-Blog
-Changelog
-Pricing
-Enterprise
-basicblog-q41q – Deployment Source
