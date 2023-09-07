@@ -7,6 +7,5 @@ eleventyNavigation:
   order: 3
 ---
 
-I am a person that writes stuff.
-
-This blog template is based on [eleventy-high-performance-blog](https://www.industrialempathy.com/posts/eleventy-high-performance-blog/) which itself is based on [eleventy-base-blog](https://github.com/11ty/eleventy-base-blog).
+# My name is Mil Hoornaert
+I am the proud owner of this blog and I write all my posts with a lot of pleasure. It is my desire to help as much people as I can to achieve a better life!
