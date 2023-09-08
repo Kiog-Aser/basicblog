@@ -1,5 +1,5 @@
 ---
-title: Language Transfer: The Thinking Method
+title: Language Transfer, The Thinking Method
 description: Why I really love the app and you should try it!
 date: 2023-04-26
 scheduled: 2023-04-26
