@@ -44,7 +44,7 @@ The best part? It doesn't matter if you've never studied a foreign language befo
 
 If you want to find language transfer's website: https://www.languagetransfer.org/. Here you can download the app for Android: https://play.google.com/store/apps/details?id=org.languagetransfer. Here you can download the app for IOS: https://apps.apple.com/app/id1519599004.
 
-If you want to, sign up for Duolingo <a href="https://www.duolingo.com/register" target="_blank">here</a>
+If you want to, sign up for Duolingo <a href="https://invite.duolingo.com/BDHTZTB5CWWKT3K3MEPR6O7FAQ" target="_blank">here</a>
 
 ## Quote:
 This is today's qoute:
