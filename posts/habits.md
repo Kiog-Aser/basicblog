@@ -33,7 +33,7 @@ Habits and routines are the foundation of our daily lives. They define who we ar
 
 ## How to Incorporate Healthy Habits and Routines into Your Daily Life
 
-- Incorporating healthy habits and routines into your daily life can be challenging. Here are a few tips to help you get started:
+Incorporating healthy habits and routines into your daily life can be challenging. Here are a few tips to help you get started:
 
 - Start small: Building healthy habits and routines is a process. Start small by making one change at a time. For example, if you want to start exercising, begin by taking a ten-minute walk each day and gradually increase the time as you become more comfortable.
 
