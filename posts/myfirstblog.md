@@ -3,7 +3,7 @@ title: This is my first blog
 description: My first blog, talking about some basic ideas for my blog.
 date: 2023-04-15
 scheduled: 2023-04-15
-tags: second-tag
+tags: introduction
 layout: layouts/post.njk
 ---
 
