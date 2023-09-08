@@ -1,5 +1,5 @@
 ---
-title: The Oxygen Advantage.
+title: The Oxygen Advantage
 description: Talking about the book "The Oxygen Advantage"
 date: 2023-04-22
 scheduled: 2023-04-22
