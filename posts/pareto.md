@@ -1,8 +1,8 @@
 ---
 title: The Pareto Principle (80 - 20 rule)
 description: Introducing the Pareto Principle and how you can use it to benefit in your daily life!
-date: 2023-05-7
-scheduled: 2023-05-7
+date: 2023-05-07
+scheduled: 2023-05-07
 tags:
   - productivity
   - focus
