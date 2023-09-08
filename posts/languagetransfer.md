@@ -1,18 +1,20 @@
 ---
-title: Language Transfer: The thinking method!
+title: Language Transfer
 description: Why I really love the app and you should try it!
-date: 2023-04-26
-scheduled: 2023-04-26
+date: 2023-04-22
+scheduled: 2023-04-22
 tags:
+  - languages
+  - language
   - app
   - language transfer
-  - language
-  - brain
   - learning
   - improvement
-  - knowledge 
+  - spanish
+  - french 
 layout: layouts/post.njk
 ---
+Why I really love the app and you should try it!
 
 ## My personal experience:
 
