@@ -65,4 +65,4 @@ This weeks quote is:
 ### "The odds of hitting your target go up dramatically when you aim at it."
 ~ Mal Pancoast
 
-This quote is about how important it is to have a clear goal and direction in life. Something to aim for. If you don't have a goal you will probably strugle building new habits. Because habits are ways to get to your goals. You can write your opinion about the quote or article down in the comments! I hope you learned something and enjoyed reading!
+This quote is about how important it is to have a clear goal and direction in life. Something to aim for. If you don't have a goal you will probably strugle building new habits. Because habits are ways to get to your goals. I hope you learned something and enjoyed reading!
