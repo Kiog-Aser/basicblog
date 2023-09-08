@@ -4,6 +4,13 @@ description: Talking about the book "The Oxygen Advantage"
 date: 2023-04-22
 scheduled: 2023-04-22
 tags:
+  - books
+  - book
+  - breathing
+  - the oxygen advantage
+  - learning
+  - improvement
+  - health 
 layout: layouts/post.njk
 ---
 
