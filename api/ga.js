@@ -3,7 +3,7 @@ const GA_ENDPOINT = `https://www.google-analytics.com/collect`;
 // Domains to allowlist. Replace with your own!
 const originallowlist = [];
 // Update me.
-allowlistDomain("eleventy-high-performance-blog-sample.industrialempathy.com/");
+allowlistDomain("blog.milh.tech/");
 
 let hot = false;
 let age = Date.now();
@@ -23,8 +23,8 @@ export default async function (req, event) {
 
   const isOriginallowlisted =
     originallowlist.indexOf(origin) >= 0 ||
-    origin.endsWith("-cramforce.vercel.app") ||
-    origin.endsWith("-team-malte.vercel.app");
+    origin.endsWith("-milh.tech") ||
+    origin.endsWith("-milh.tech");
   if (!isOriginallowlisted) {
     console.info("Bad origin", origin);
     return new Response("Not found", { status: 404 });
