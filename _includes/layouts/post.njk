@@ -24,12 +24,6 @@ templateClass: tmpl-post
   would be highly appreciated 💖!
 </p>
 
-<h1>Comments</h1>
-
-<div id="twitter-comments">
-  <a class="twitter-timeline" data-height="400" data-theme="light" href="https://twitter.com/@MilHoornaert">Tweets by @MilHoornaert</a>
-</div>
-
 <share-widget>
   <button on-click="share" aria-label="Share" href="{{ shareUrl | safe }}">
     <div></div>
@@ -60,8 +54,5 @@ templateClass: tmpl-post
 }
 </script>
 
-<script>
-  twttr.widgets.load();
-</script>
 
 {% endblock %}
