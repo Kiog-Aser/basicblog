@@ -28,11 +28,12 @@ templateClass: tmpl-post
 
 <script src="https://utteranc.es/client.js"
         repo="Kiog-Aser/basicblog"
-        issue-term="url"
+        issue-term="{{ metadata.url | url_encode }}"
         theme="gruvbox-dark"
         crossorigin="anonymous"
         async>
 </script>
+
 
 <share-widget>
   <button on-click="share" aria-label="Share" href="{{ shareUrl | safe }}">
