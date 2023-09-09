@@ -9,6 +9,7 @@ tags:
   - mental health
   - physical health
 layout: layouts/post.njk
+tweet_url: "https://twitter.com/MilHoornaert/status/1700401726161932414?s=20"
 ---
 
 no bs full guide
