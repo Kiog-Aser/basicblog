@@ -3,13 +3,13 @@ title: how to transform your life ASAP
 description: no bs full guide
 date: 2023-08-22
 scheduled: 2023-08-22
+tweet_url: "https://twitter.com/MilHoornaert/status/1700401726161932414?s=20"
 tags:
   - transform life
   - life changing
   - mental health
   - physical health
 layout: layouts/post.njk
-tweet_url: "https://twitter.com/MilHoornaert/status/1700401726161932414?s=20"
 ---
 
 no bs full guide
