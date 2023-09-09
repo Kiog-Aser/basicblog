@@ -37,7 +37,7 @@ Yes! Thank you for noticing. In case you have never seen another design, this is
 ## Quote
 As always, let's end with a quote.
 
-###"Compulsive avoidance of embarrassment is a form of suicide."
+### "Compulsive avoidance of embarrassment is a form of suicide."
 ~ Colin Marshal
 
 Go live outside your border and do things you can't do!
