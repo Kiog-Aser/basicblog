@@ -24,16 +24,6 @@ templateClass: tmpl-post
   would be highly appreciated 💖!
 </p>
 
-<h2>Comment on Twitter</h2>
-
-{% if page.tweet_url %}
-<blockquote class="twitter-tweet" data-theme="dark">
-  <p lang="zxx" dir="ltr"><a href="{{ page.tweet_url }}">{{ page.tweet_url }}</a></p>
-</blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-{% endif %}
-
-
 <share-widget>
   <button on-click="share" aria-label="Share" href="{{ shareUrl | safe }}">
     <div></div>
