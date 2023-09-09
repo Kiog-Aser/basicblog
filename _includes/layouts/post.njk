@@ -8,7 +8,7 @@ templateClass: tmpl-post
    {% set wPerMinute = (wc / 240) + 1 %}
    <aside>
      {{ wPerMinute | round }} min read.
-    <a href="http://foo.com/bar.html#disqus_thread">Link</a>
+      <a href="{{ page.url }}#disqus_thread">Comments</a>
    </aside>
 {% endblock %}
 
