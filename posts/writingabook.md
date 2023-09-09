@@ -11,6 +11,7 @@ tags:
   - blog
   - education
 layout: layouts/post.njk
+tweet_url: "https://twitter.com/MilHoornaert/status/1700400192279724305?s=20"
 ---
 ## Introduction
 
