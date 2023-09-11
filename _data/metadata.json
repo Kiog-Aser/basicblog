@@ -7,10 +7,10 @@
   "googleAnalyticsId": "G-GZE9F7CHNP",
   "sendWebVitals": false,
   "feed": {
-    "subtitle": "Subtitle. Update me.",
+    "subtitle": "RSS Blog Feed",
     "filename": "feed.xml",
     "path": "/feed/feed.xml",
-    "id": "https://update-me.com"
+    "id": "https://blog.milh.tech"
   },
   "jsonfeed": {
     "path": "/feed/feed.json",
