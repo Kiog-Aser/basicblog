@@ -10,7 +10,7 @@
     "subtitle": "RSS Blog Feed",
     "filename": "feed.xml",
     "path": "/feed/feed.xml",
-    "id": "https://blog.milh.tech"
+    "id": "https://blog.milh.tech/"
   },
   "jsonfeed": {
     "path": "/feed/feed.json",
