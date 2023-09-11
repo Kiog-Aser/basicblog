@@ -13,7 +13,6 @@ eleventyExcludeFromCollections: true
 	<id>{{ metadata.feed.id }}</id>
 	<author>
 		<name>{{ metadata.author.name }}</name>
-		<email>{{ metadata.author.email }}</email>
 	</author>
 	{%- for post in collections.posts %}
 	{% set absolutePostUrl %}{{ post.url | url | absoluteUrl(metadata.url) }}{% endset %}
@@ -22,7 +21,7 @@ eleventyExcludeFromCollections: true
 		<link href="{{ absolutePostUrl }}"/>
 		<updated>{{ post.date | rssDate }}</updated>
 		<id>{{ absolutePostUrl }}</id>
-		<content type="html">
+		
 		  {{ post.templateContent | htmlToAbsoluteUrls(absolutePostUrl) }}
 			{% if googleanalytics %}
 				{% set titleUrlEncoded = post.data.title|encodeURIComponent %}
