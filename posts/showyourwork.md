@@ -10,6 +10,9 @@ tags:
   - hoornaert
   - book
   - books
+  - show your work
+  - austin kleon
+  - work
 layout: layouts/post.njk
 ---
 ## Introduction
@@ -38,8 +41,7 @@ You should always stay a student and try to learn as much as possible. The more 
 
 The fifth chapter is 'Tell good stories'.  To share your work it is important to **tell your stories**. Get better at telling your stories and share them with the people around you! Even at a party, you could be telling stories about your and your work. Here is **Dan Harmon's Story Cycle**:
 
-![Dan Harmon's Story Cycle]
-(https://aliabdaal.com/wp-content/uploads/2023/01/show-your-work-book-image.jpeg)
+![Dan Harmon's Story Cycle](https://aliabdaal.com/wp-content/uploads/2023/01/show-your-work-book-image.jpeg)
 
 ## Teach what you know
 
