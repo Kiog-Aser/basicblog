@@ -3,6 +3,8 @@ templateClass: tmpl-post
 ---
 {% extends "layouts/base.njk" %}
 
+{% corsHeaders %}
+
 {% block extraArticleHeader %}
    {% set wc = content | striptags | wordcount %}
    {% set wPerMinute = (wc / 240) + 1 %}
