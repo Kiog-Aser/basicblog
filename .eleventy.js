@@ -78,6 +78,15 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPlugin(require("./_11ty/apply-csp.js"));
   eleventyConfig.setDataDeepMerge(true);
   eleventyConfig.addLayoutAlias("post", "layouts/post.njk");
+  eleventyConfig.addNunjucksAsyncShortcode("corsHeaders", async function () {
+    // Generate CORS headers here
+    const corsHeaders = `
+        <meta http-equiv="Access-Control-Allow-Origin" content="*">
+        <meta http-equiv="Access-Control-Allow-Methods" content="GET, POST, OPTIONS">
+        <meta http-equiv="Access-Control-Allow-Headers" content="Content-Type">
+    `;
+    return corsHeaders;
+});
   eleventyConfig.addNunjucksAsyncFilter(
     "addHash",
     function (absolutePath, callback) {
