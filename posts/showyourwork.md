@@ -56,11 +56,15 @@ The seventh chapter is 'Don’t turn into human spam'. **Share, but don't spam!*
 **The vampire test –** “Whatever excites you, go do it. Whatever drains you, stop doing it” – Derek Sivers. You might run into 'vampires' in your life, people who drain your energy without giving something in return. Avoid those people.
 
 **Meet people IRL** – Make online friends, and then meet them in real life. Meet-ups are great. If you know someone online and you’re in the same town, grab a coffee with them. When you’re travelling, let your online friends know you’re going to be around.
+
+^(These 3 things are from Ali Abdaal's blog post)^
+
 ## Learn to take a punch
 
 The eighth chapter is 'Learn to take a punch'. People will **criticise** you and **disagree** with you. It's important to learn how to handle that criticism and improve with it. You need to be able to take a punch and get stronger after it. If you can't do that, you will probably miserably fail.
 
 > Compulsive avoidance of embarrassment is a form of suicide. – Colin Marshall.
+
 ## Sell out
 
 The ninth chapter is 'Sell out'.  It's okay to try and make some money, but do it smart. You want to sell your work, so don't sell yourself. Be the seller and passionate creator of your work. 
@@ -70,6 +74,9 @@ The ninth chapter is 'Sell out'.  It's okay to try and make some money, but do i
 **Pay it forward –** When you have success, help people who reach out to you. Help people who helped you get where you are.
 
 **Caveat –** Don’t sacrifice your art or your work for the sake of answering emails. Be as generous as you can, but selfish enough to get your work done.
+
+^(These 3 things are from Ali Abdaal's blog post)^
+
 ## Stick around
 
 **Keep going** and keep creating! **Don't quit**, consistency is key!
@@ -91,4 +98,4 @@ Interested in buying the book? Here it is: https://amzn.to/3PkIdlV
 
 My new IG acount about stoicism: https://www.instagram.com/dailystoicist/
 
-A great blog post from Ali Abdaal about this book: https://aliabdaal.com/book-notes/show-your-work/
+A great blog post from Ali Abdaal about this book (I really liked some of his sections and copied them): https://aliabdaal.com/book-notes/show-your-work/
