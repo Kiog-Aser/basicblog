@@ -35,10 +35,6 @@
     {% if image %}
       <meta property="og:image" content="{{ image | absoluteUrl(metadata.url) }}">
     {% endif %}
-
-    <!-- Include CORS headers here -->
-    {% corsHeaders | safe %}
-
     <link rel="canonical" href="{{ metadata.url }}{{ canonicalUrl or page.url }}">
     <!-- This is a blog and so it SHOULD be safe and it is nice for the web
          to send referrers cross-origin.
@@ -86,6 +82,7 @@
     </header>
 
     <main>
+{% corsHeaders %}
       <article>
         {% block article %}
           {{ content | safe }}
