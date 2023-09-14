@@ -57,7 +57,7 @@ The seventh chapter is 'Don’t turn into human spam'. **Share, but don't spam!*
 
 **Meet people IRL** – Make online friends, and then meet them in real life. Meet-ups are great. If you know someone online and you’re in the same town, grab a coffee with them. When you’re travelling, let your online friends know you’re going to be around.
 
-^(These 3 things are from Ali Abdaal's blog post)^
+*(These 3 things are from Ali Abdaal's blog post)*
 
 ## Learn to take a punch
 
@@ -75,7 +75,7 @@ The ninth chapter is 'Sell out'.  It's okay to try and make some money, but do i
 
 **Caveat –** Don’t sacrifice your art or your work for the sake of answering emails. Be as generous as you can, but selfish enough to get your work done.
 
-^(These 3 things are from Ali Abdaal's blog post)^
+*(These 3 things are from Ali Abdaal's blog post)*
 
 ## Stick around
 
