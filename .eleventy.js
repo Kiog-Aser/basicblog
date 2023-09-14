@@ -81,7 +81,7 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addNunjucksAsyncShortcode("corsHeaders", async function () {
     // Generate CORS headers here
     const corsHeaders = `
-        <meta http-equiv="Access-Control-Allow-Origin" content="*">
+        <meta http-equiv="Access-Control-Allow-Origin" content="https://www.milh.tech">
         <meta http-equiv="Access-Control-Allow-Methods" content="GET, POST, OPTIONS">
         <meta http-equiv="Access-Control-Allow-Headers" content="Content-Type">
     `;
