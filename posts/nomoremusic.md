@@ -11,6 +11,16 @@ tags:
   - music
   - lifestyle
   - focus
+  - listening to music
+  - spotify
+  - iPod
+  - ipod
+  - ipod shuffle
+  - iPod shuffle
+  - stopped
+  - quit
+  - mental health
+  - flow state
 layout: layouts/post.njk
 ---
 ## I stopped listening to music
