@@ -1,4 +1,4 @@
----
+Nice reel! Would you mind if I sent you a DM to ask you for some IG tips>---
 title: I stopped listening to music...
 description: Why I stopped listening to music, and the results.
 date: 2023-09-18
