@@ -22,7 +22,7 @@ tags:
   - brain
 layout: layouts/post.njk
 ---
-## How To Fix Your Stupid Mindset Today: Control Your Life
+## Introduction
 **![](https://lh3.googleusercontent.com/k3zs0mdQyRuT9zcfJOXe8MZHStRw0aePzMdV8ufJg1rk2GdzkZsk9tu97KdBsrRKYw10Lx1ti4lU04sNjznx2i7yxoaHtF78eB4tuJjR_g7e4xLvonoMvHnL-_F7-HXY-d8_YVAh9grtd1AUhzSixpo)**
 
 In this blog you will learn how you can fix your mindset today, forever. How you can grow the biggest winner mindset ever. You will learn about 'the secret', about believing and the power of thoughts. After this blog you will have all you need to change your mindset and your life forever. The guide will be split in a couple of key points like 'health' or 'wealth', but you could implement these things everywhere in your life.
