@@ -17,6 +17,9 @@ tags:
   - believe
   - secret
   - power
+  - winners mindset
+  - winners
+  - brain
 layout: layouts/post.njk
 ---
 ## How To Fix Your Stupid Mindset Today: Control Your Life
@@ -31,7 +34,7 @@ You might have heard before that your mindset is how you think about things and 
 
 You can look at mindset like this triangle:
 
-![[Pasted image 20230926091658.png]]
+![image](https://github.com/Kiog-Aser/basicblog/assets/67959430/36b3621f-e368-4a59-9271-cd9e5758ad47)
 
 Your experiences reinforce your beliefs. Your beliefs drive your actions and your actions produce your results. Mindset is not just being positive or negative, it's way deeper than that. Your mindset starts with your identity and experiences. 
 
