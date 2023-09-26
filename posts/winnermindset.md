@@ -22,6 +22,9 @@ tags:
   - brain
 layout: layouts/post.njk
 ---
+
+How you can fix your mindset and have the greatest winners mindset possible.
+
 ## Introduction
 **![](https://lh3.googleusercontent.com/k3zs0mdQyRuT9zcfJOXe8MZHStRw0aePzMdV8ufJg1rk2GdzkZsk9tu97KdBsrRKYw10Lx1ti4lU04sNjznx2i7yxoaHtF78eB4tuJjR_g7e4xLvonoMvHnL-_F7-HXY-d8_YVAh9grtd1AUhzSixpo)**
 
