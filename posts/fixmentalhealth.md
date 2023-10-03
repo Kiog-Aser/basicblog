@@ -15,6 +15,8 @@ tags:
   - fix
   - mental
   - health
+  - mental health
+  - conscious life
 layout: layouts/post.njk
 ---
 How you can fix your mental health and start living a more purposeful, conscious life.
