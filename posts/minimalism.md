@@ -1,6 +1,6 @@
 ---
 title: "Minimalism: Simplify Your Life and Find True Happiness"
-description: We should simplify our lives, to become truly happy and live a better life.
+description: Why we should simplify our lives, to become truly happy and live a better life.
 date: 2023-10-05
 scheduled: 2023-10-05
 tags:
@@ -15,8 +15,16 @@ tags:
   - happiness
   - purpose
   - purposeful
+  - minimalism lifestyle
+  - minimalistic lifestyle
+  - dumb phone
+  - dumbphone
+  - focus
+  - productivity
 layout: layouts/post.njk
 ---
+Why we should simplify our lives, to become truly happy and live a better life.
+
 ## Introduction
 
 Minimalism has always existed, and now it's growing faster than ever. It's becoming a new trend, and it's changing lives. In this blog post I will explain minimalism, give you actionable steps to implement it into your life and transform your life, give you habits to implement it and more. It's okay if you want to change your life after reading this, or not. You can choose and implement these things as you like.
