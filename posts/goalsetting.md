@@ -12,6 +12,12 @@ tags:
   - goals
   - goalsetting
   - dreams
+  - setting goals
+  - goal
+  - goal setting
+  - smart
+  - dreams
+  - achieve dreams
 layout: layouts/post.njk
 ---
 
