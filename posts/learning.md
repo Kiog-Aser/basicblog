@@ -13,6 +13,12 @@ tags:
   - learn
   - educate
   - educative
+  - lifelong learning
+  - daily learning
+  - reading
+  - podcasts
+  - learning skills
+  - language learning
 layout: layouts/post.njk
 ---
 ## Introduction
