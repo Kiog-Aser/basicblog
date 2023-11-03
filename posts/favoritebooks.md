@@ -11,6 +11,31 @@ tags:
   - how to win friends and influence people
   - the way of the superior man
   - Rich Dad Poor Dad
+  - personal growth
+  - living your life
+  - personal growth and
+  - theart of living
+  - pareto principle
+  - pareto 80 20 rule
+  - pareto rule
+  - working routine
+  - the life meaning
+  - self discovery
+  - self journey
+  - personal discovery
+  - self finding
+  - live for your dreams
+  - finding purpose
+  - listening through
+  - life purpose
+  - self growth
+  - my best self
+  - intentional living
+  - improve your life
+  - intentional life
+  - best personal growth book
+  - best self
+  - your work
 layout: layouts/post.njk
 ---
 
