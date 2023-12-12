@@ -15,6 +15,39 @@ tags:
   - fix
   - mental
   - health
+  - personal growth
+  - living your life
+  - personal growth and
+  - theart of living
+  - pareto principle
+  - pareto 80 20 rule
+  - pareto rule
+  - working routine
+  - the life meaning
+  - self discovery
+  - self journey
+  - personal discovery
+  - self finding
+  - live for your dreams
+  - finding purpose
+  - listening through
+  - life purpose
+  - self growth
+  - my best self
+  - intentional living
+  - improve your life
+  - intentional life
+  - best personal growth book
+  - best self
+  - your work
+  - browser
+  - dopamine
+  - dopamine detox
+  - dopamine free
+  - minimalism
+  - minimalistic browser
+  - productivity
+  - focus
 layout: layouts/post.njk
 ---
 I tweaked my browser to be next-level productivity mode. I basically made it impossible to distract myself and spend time on useless dopamine things. Do you want to know the best part? It takes only about 10 minutes to set up. **_10_ MINUTES.** That’s all to change your life an make your more productive for possibly the rest of your life. Let me show what I did and how you can do it.
