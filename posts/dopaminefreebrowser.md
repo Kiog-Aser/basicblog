@@ -54,7 +54,7 @@ I tweaked my browser to be next-level productivity mode. I basically made it imp
 
 ## 1. Adding redirects.
 
-The first thing I did was adding redirects. I basically thought of possibly distracting sites and added a redirect to instantly redirect them to web page I built to remind me to stay productive. I used a chrome extension for this that’s free and available for everyone and (almost) every browser. To make it even easier for you, I will give you the link to the extension, and I simple file you just need to import to get all of my redirects instantly. This step might just be the most powerful one.
+The first thing I did was adding redirects. I basically thought of possibly distracting sites and added a redirect to instantly redirect them to web page I built to remind me to stay productive. I used a chrome extension for this that’s free and available for everyone and (almost) every browser. To make it even easier for you, I will give you the link to the extension, and a simple file you just need to import to get all of my redirects instantly. This step might just be the most powerful one.
 
 ## 2. Going for a minimalistic theme.
 
