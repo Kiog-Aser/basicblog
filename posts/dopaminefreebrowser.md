@@ -102,7 +102,7 @@ In order to add new redirects, just duplicate one and change the old redirect ur
 
 #### Step 3) Changing to a minimalistic theme.
 
-Now it’s time to change the browsers theme with the bonjourr extension. It’s pretty straight forward, if installed it correctly. Just open a new tab, hit the settings icon in the right bottom corner, and start changing it to how you like it. I used [this video](https://www.youtube.com/watch?v=8qp7siYTlF8) for my theme, and changed the unsplash image theme to this one: 21418908. This is how your settings menu should look:
+Now it’s time to change the browsers theme with the bonjourr extension. It’s pretty straight forward, if you installed it correctly. Just open a new tab, hit the settings icon in the right bottom corner, and start changing it to how you like it. I used [this video](https://www.youtube.com/watch?v=8qp7siYTlF8) for my theme, and changed the unsplash image theme to this one: 21418908. This is how your settings menu should look:
 
 ![Opened settings menu](https://miro.medium.com/v2/resize:fit:700/1*2EQJ5mSqCBITCB4Bh0yvBg.png)
 
