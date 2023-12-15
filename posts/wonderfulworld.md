@@ -12,9 +12,32 @@ tags:
   - books
   - improve
   - elevate
-  - fix
-  - mental
-  - health
+  - masculinity
+  - personal growth
+  - living your life
+  - personal growth and
+  - the art of living
+  - pareto principle
+  - pareto 80 20 rule
+  - pareto rule
+  - working routine
+  - the life meaning
+  - self discovery
+  - self journey
+  - personal discovery
+  - self finding
+  - live for your dreams
+  - finding purpose
+  - listening through
+  - life purpose
+  - self growth
+  - my best self
+  - intentional living
+  - improve your life
+  - intentional life
+  - best personal growth book
+  - best self
+  - your work
 layout: layouts/post.njk
 ---
 Have you recently took some time to stop doing what you were doing, and think? Think about the beauty of this world, think about what life could be, think about life’s obstacles? Most people probably haven’t done anything like that in a while, but some have. And those people might understand me more than others, but my message is for all.
